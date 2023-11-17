@@ -1,3 +1,4 @@
 Hello nodesecond
 this is text document
 checking merging in node1
+conflict checking in node1
