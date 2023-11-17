@@ -1,2 +1,3 @@
 Hello nodesecond
 this is text document
+checking merging in node1
